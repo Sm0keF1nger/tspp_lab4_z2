@@ -1,0 +1,15 @@
+E:\repository\lab4_z2\bin\Debug\net6.0\lab4_z2.exe
+E:\repository\lab4_z2\bin\Debug\net6.0\lab4_z2.deps.json
+E:\repository\lab4_z2\bin\Debug\net6.0\lab4_z2.runtimeconfig.json
+E:\repository\lab4_z2\bin\Debug\net6.0\lab4_z2.dll
+E:\repository\lab4_z2\bin\Debug\net6.0\lab4_z2.pdb
+E:\repository\lab4_z2\obj\Debug\net6.0\lab4_z2.csproj.AssemblyReference.cache
+E:\repository\lab4_z2\obj\Debug\net6.0\lab4_z2.GeneratedMSBuildEditorConfig.editorconfig
+E:\repository\lab4_z2\obj\Debug\net6.0\lab4_z2.AssemblyInfoInputs.cache
+E:\repository\lab4_z2\obj\Debug\net6.0\lab4_z2.AssemblyInfo.cs
+E:\repository\lab4_z2\obj\Debug\net6.0\lab4_z2.csproj.CoreCompileInputs.cache
+E:\repository\lab4_z2\obj\Debug\net6.0\lab4_z2.dll
+E:\repository\lab4_z2\obj\Debug\net6.0\refint\lab4_z2.dll
+E:\repository\lab4_z2\obj\Debug\net6.0\lab4_z2.pdb
+E:\repository\lab4_z2\obj\Debug\net6.0\lab4_z2.genruntimeconfig.cache
+E:\repository\lab4_z2\obj\Debug\net6.0\ref\lab4_z2.dll
